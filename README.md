@@ -6,3 +6,6 @@ Contents
 1. Report
 
 2. code
+
+a. ACSA(Aspect Categorical Sentiment Analysis)
+b. ATSA(Aspect Term Sentiment Analysis)
